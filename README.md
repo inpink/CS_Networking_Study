@@ -5,7 +5,7 @@
 1️⃣ `To acquire and share knowledge of Computer Science`　   
 2️⃣ `To prepare for Computer Science interview`　   
 3️⃣ `To improve presentation skills`　   
-4️⃣ `To get into the habit of writing regularly`　   
+4️⃣ `To get into the habit of writing technical reports regularly`　   
 　   
 ## Group Members
 <table>
