@@ -32,7 +32,7 @@
 2. 각 `Chapter` 마다 `github ID 또는 nickname`을 이름으로 갖는 `folder`를 생성합니다. 
 3. 개인 폴더에 각 단원별로 `Markdown`으로 정리한 내용을 업로드합니다.
 4. `Commit 규칙`은 아래를 따릅니다.
-5. 스터디 시작 전까지 `Pull Request`합니다.
+5. 스터디 시작 전까지 `Pull Request`합니다. `PR 규칙`은 아래를 따릅니다.
 6. 스터디 종료 후, `Merge`합니다.
 　   
 　   
@@ -45,6 +45,13 @@
 |:------:|:---:|
 |**내용 수정**|**Update**|
 |**파일 구조 수정**|**Structure**|
+
+
+　   
+#### 📑 PR 규칙
+ - `ID또는nickname : @단원(내용)`
+ - 예) `inpink : 1단원`
+ - 예) `inpink : 2단원(라우터 예시 수정함)`
 
 　   
 ## Study period
