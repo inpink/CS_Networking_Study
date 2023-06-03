@@ -12,7 +12,7 @@
   <tbody><tr>
     <td align="center"><a href="https://github.com/inpink"><img src="https://avatars.githubusercontent.com/u/108166692?v=4" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>inpink</b></sub></a><br></td>
     <td align="center"><a href="https://github.com/0o0mlb"><img src="https://avatars.githubusercontent.com/u/81353217?v=4" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>0o0mlb</b></sub></a><br></td>
-    <td align="center"><a href="https://github.com/BP894"><img src="https://avatars.githubusercontent.com/u/90163997?v=4" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>BP894</b></sub></a><br></td>       
+    <td align="center"><a href="https://github.com/hkh1213"><img src="https://avatars.githubusercontent.com/u/64997271?v=4" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>hkh1213</b></sub></a><br></td>       
   </tr>
 </tbody></table>
 　   
@@ -55,7 +55,7 @@
 
 　   
 ## Study period
-`5/19~6/30`
+`6/03~7/09`
 　   
 　   
 　   
