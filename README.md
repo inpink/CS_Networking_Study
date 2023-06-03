@@ -12,7 +12,7 @@
   <tbody><tr>
     <td align="center"><a href="https://github.com/inpink"><img src="https://avatars.githubusercontent.com/u/108166692?v=4" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>inpink</b></sub></a><br></td>
     <td align="center"><a href="https://github.com/0o0mlb"><img src="https://avatars.githubusercontent.com/u/81353217?v=4" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>0o0mlb</b></sub></a><br></td>
-    <td align="center"><a href="https://github.com/BP894"><img src="https://avatars.githubusercontent.com/u/90163997?v=4" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>BP894</b></sub></a><br></td>       
+    <td align="center"><a href="https://github.com/hkh1213"><img src="https://avatars.githubusercontent.com/u/64997271?v=4" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>hkh1213</b></sub></a><br></td>       
   </tr>
 </tbody></table>
 　   
@@ -55,19 +55,19 @@
 
 　   
 ## Study period
-`5/19~6/30`
+`6/03~7/09`
 　   
 　   
 　   
 ## List of contents   
-Chapter 1: [Computer Networks and the Internet](https://github.com/inpink/CS_Networking_Study/tree/ae3f82962ab83ba1535e8f7436c80fbbf488035c/Chapter01_Computer_Networks_and_the_Internet) (6/4)　    
-Chapter 2: [The Application Layer](https://github.com/inpink/CS_Networking_Study/tree/ae3f82962ab83ba1535e8f7436c80fbbf488035c/Chapter02_The_Application_Layer) (6/4)　   
-Chapter 3: The Transport Layer (6/18)　   
-Chapter 4: The Network Layer: the Data Plane (6/18)　   
-Chapter 5: The Network Layer: the Control Plane (6/18)　   
-Chapter 6: The Link Layer (7/2)　   
-Chapter 7: Wireless and Mobile Networks (7/2)　   
-Chapter 8: Network Security (7/2)　   
+Chapter 1: [Computer Networks and the Internet](https://github.com/inpink/CS_Networking_Study/tree/ae3f82962ab83ba1535e8f7436c80fbbf488035c/Chapter01_Computer_Networks_and_the_Internet) (6/11)　    
+Chapter 2: [The Application Layer](https://github.com/inpink/CS_Networking_Study/tree/ae3f82962ab83ba1535e8f7436c80fbbf488035c/Chapter02_The_Application_Layer) (6/11)　   
+Chapter 3: The Transport Layer (6/25)　   
+Chapter 4: The Network Layer: the Data Plane (6/25)　   
+Chapter 5: The Network Layer: the Control Plane (6/25)　   
+Chapter 6: The Link Layer (7/9)　   
+Chapter 7: Wireless and Mobile Networks (7/9)　   
+Chapter 8: Network Security (7/9)　   
 　   
 　   
 ## Pictures of us 🌟
