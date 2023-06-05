@@ -62,9 +62,9 @@
 ## List of contents   
 Chapter 1: [Computer Networks and the Internet](https://github.com/inpink/CS_Networking_Study/tree/ae3f82962ab83ba1535e8f7436c80fbbf488035c/Chapter01_Computer_Networks_and_the_Internet) (6/11)　    
 Chapter 2: [The Application Layer](https://github.com/inpink/CS_Networking_Study/tree/ae3f82962ab83ba1535e8f7436c80fbbf488035c/Chapter02_The_Application_Layer) (6/11)　   
-Chapter 3: The Transport Layer (6/25)　   
-Chapter 4: The Network Layer: the Data Plane (6/25)　   
-Chapter 5: The Network Layer: the Control Plane (6/25)　   
+Chapter 3: The Transport Layer (6/24)　   
+Chapter 4: The Network Layer: the Data Plane (6/24)　   
+Chapter 5: The Network Layer: the Control Plane (6/24)　   
 Chapter 6: The Link Layer (7/9)　   
 Chapter 7: Wireless and Mobile Networks (7/9)　   
 Chapter 8: Network Security (7/9)　   
