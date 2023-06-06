@@ -96,7 +96,9 @@ DNS 서버는 호스트 이름에 대한 책임이 t없을 때조차 원하는 �
 DNS 분산 데이터베이스를 구현한 DNS 서버들은 호스트 이름을 IP 주소로 매핑하기 위해 `자원 레코드(resource record, RR)`를 저장한다
 
 자원 레코드는 다음과 같은 필드를 포함하는 4개의 튜플(tuple)로 되어 있다
-``` (Name, Value, Type, TTL) ```
+```
+(Name, Value, Type, TTL)
+```
 
 `TTL(time to live)`은 자원 레코드의 생존 기간이다
 
