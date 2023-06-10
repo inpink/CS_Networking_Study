@@ -52,7 +52,7 @@ clientSocket.sendto(message.encode(), (serverName, serverPort))
 
 # 패킷 데이터는 modifiedMessage에 할당되고 패킷의 출발지 주소(서버의 IP 주소와 포트 번호)는 serverAddress에 할당된다
 # recvfrom()은 2048의 버퍼 크기로 받아들인다
-modifiedMessage, serverAddress = clientSocket,recvfrom(2048)
+modifiedMessage, serverAddress = clientSocket.recvfrom(2048)
 
 # 메시지를 바이트에서 문자열로 변환한 다음 modifiedMessage를 출력한다
 print(modifiedMessage.decode())
