@@ -170,7 +170,7 @@ while True:
   # TCP 연결이 설정되었으므로 클라이언트와 서버는 이 연결을 통해 서로에게 바이트를 보낼 수 있다
   connectionSocket, addr = serverSocket.accept()
   
-  sentenc = connectionSocket.recv(1024).decode()
+  sentence = connectionSocket.recv(1024).decode()
   
   capitalizedSentence = sentence.upper()
   
