@@ -55,17 +55,17 @@
 
 　   
 ## Study period
-`6/03~7/09`
+`6/03~7/23`
 　   
 　   
 　   
 ## List of contents   
 Chapter 1: [Computer Networks and the Internet](https://github.com/inpink/CS_Networking_Study/tree/ae3f82962ab83ba1535e8f7436c80fbbf488035c/Chapter01_Computer_Networks_and_the_Internet) (6/11)　    
 Chapter 2: [The Application Layer](https://github.com/inpink/CS_Networking_Study/tree/ae3f82962ab83ba1535e8f7436c80fbbf488035c/Chapter02_The_Application_Layer) (6/11)　   
-Chapter 3: The Transport Layer (6/24)　   
-Chapter 4: The Network Layer: the Data Plane (6/24)　   
-Chapter 5: The Network Layer: the Control Plane (7/9)　   
-Chapter 6: The Link Layer (7/9)　   
+Chapter 3: [The Transport Layer](https://github.com/inpink/CS_Networking_Study/tree/fba78aacb89edb759b2fa8493dae744658ea0888/Chapter03_The_Transport_Layer) (6/24)　   
+Chapter 4: [The Network Layer: the Data Plane](https://github.com/inpink/CS_Networking_Study/tree/fba78aacb89edb759b2fa8493dae744658ea0888/Chapter04_The_Network_Layer) (6/24)　   
+Chapter 5: [The Network Layer: the Control Plane](https://github.com/inpink/CS_Networking_Study/tree/bb1dbc7b34e3e92d14674b7cbee408ca91f93d25/Chapter05_The_Network_Layer_2) (7/9)　   
+Chapter 6: [The Link Layer](https://github.com/inpink/CS_Networking_Study/tree/bb1dbc7b34e3e92d14674b7cbee408ca91f93d25/Chapter06_The_Link_Layer) (7/9)　   
 Chapter 7: Wireless and Mobile Networks (?)　   
 Chapter 8: Network Security (?)　   
 　   
