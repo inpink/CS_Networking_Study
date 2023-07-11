@@ -66,8 +66,8 @@ Chapter 3: [The Transport Layer](https://github.com/inpink/CS_Networking_Study/t
 Chapter 4: [The Network Layer: the Data Plane](https://github.com/inpink/CS_Networking_Study/tree/fba78aacb89edb759b2fa8493dae744658ea0888/Chapter04_The_Network_Layer) (6/24)　   
 Chapter 5: [The Network Layer: the Control Plane](https://github.com/inpink/CS_Networking_Study/tree/bb1dbc7b34e3e92d14674b7cbee408ca91f93d25/Chapter05_The_Network_Layer_2) (7/9)　   
 Chapter 6: [The Link Layer](https://github.com/inpink/CS_Networking_Study/tree/bb1dbc7b34e3e92d14674b7cbee408ca91f93d25/Chapter06_The_Link_Layer) (7/9)　   
-Chapter 7: Wireless and Mobile Networks (7/16)　   
-Chapter 8: Network Security (7/16)　   
+Chapter 7: [Wireless and Mobile Networks](https://github.com/inpink/CS_Networking_Study/tree/7014ab94d29030dc887ee78ca0897ce0a9d75ee0/Chapter07_Wireless_and_Mobile_Networks) (7/16)　   
+Chapter 8: [Network Security](https://github.com/inpink/CS_Networking_Study/tree/7014ab94d29030dc887ee78ca0897ce0a9d75ee0/Chapter08_Network_Security) (7/16)　   
 　   
 　   
 ## Pictures of us 🌟
