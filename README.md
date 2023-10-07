@@ -69,6 +69,3 @@ Chapter 6: [The Link Layer](https://github.com/inpink/CS_Networking_Study/tree/b
 Chapter 7: [Wireless and Mobile Networks](https://github.com/inpink/CS_Networking_Study/tree/7014ab94d29030dc887ee78ca0897ce0a9d75ee0/Chapter07_Wireless_and_Mobile_Networks) (7/16)　   
 Chapter 8: [Network Security](https://github.com/inpink/CS_Networking_Study/tree/7014ab94d29030dc887ee78ca0897ce0a9d75ee0/Chapter08_Network_Security) (7/16)　   
 　   
-　   
-## Pictures of us 🌟
-`Preparing to upload`
